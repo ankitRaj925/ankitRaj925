@@ -1,4 +1,4 @@
-<h1 align="center">✨ Hi, I'm <span style="color:#4CAF50;">Ankit Raj</span> 👋 ✨</h1>
+<h1 align="center">✨ Hi, I'm <span style="color:#4CAF50;">Ankit</span> 👋 ✨</h1>
 
 ---
 
